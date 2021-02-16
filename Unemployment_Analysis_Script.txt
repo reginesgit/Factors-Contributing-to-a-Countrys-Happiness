@@ -3,3 +3,18 @@ This analysis served to study the correlation between the overall unemployment r
 The datasets came from two different sources and did not contain the same countries. Specifically, the happiness dataset from Kaggle contained information for 141 countries. The unemployment dataset, on the other hand, came from the World Economic Outlook (WEO) database (International Monetary Fund) and included over 200 records. After cleaning and merging these datasets, the final dataset only included 85 records. The merge was conducted using the names of the countries and it is very likely that differences in the ways in which they were spelled in each dataset affected the result. 
 Nevertheless, analysis showed a moderate correlation between unemployment rates and happiness scores. The r-value of -0.36 demonstrated that there is a negative moderate correlation, in other words, a higher unemployment rate is likely to result in a lower happiness score. The overall correlation calculation is affected by the sample size. Of the 85 records, about six were potential outliers and were excluded from the above calculation. When included, these outliers bump the overall r-value to -0.40. 
 Another factor that could potentially impact these values is the access of information. Was it easier for happier countries to present information? Were countries with higher employment rates more likely to share information? There is no way to definitively answer this question, however, it is likely that these factors are important. For example, there was no available data on the countries with the lowest happiness scores. Most of these countries had suffered from political turmoil during the timeframe covered in the dataset and it is likely that information was not easily available. 
+
+Government Aalisys
+To find the types of governments on the top and bottom ten countries, I used the Database on Political Institutions (DPI) from the World Bank Data Catalogue to extract the types of political systems with in each country during 2015 to 2017. Merged this information with the average happiness per country taken from the "world Happiness Report"
+I was interested in looking at what types of governments were the top ten and bottom ten average happiness countries to further understand if this was a contributing factor to the happiness ranking/ score. 
+I used the bar plot to have a visual of the 3 types of government used in the  in the DPI form the world bank database. Described below:
+
+
+	0. Direct Presidential are Countries with presidents who are elected directly or by an electoral college
+	1. Assembly Elected President are Countries where the selection of the effective executive is done by an elected assembly or by an  elected but uncommitted electoral college
+	2. Parliamentary are Countries in which the legislature elects the chief executive  
+
+
+Findings:
+There is a positive relation between the quality of government and the average happiness. 
+When sorting through the data on the top ten  countries ranked by highest average happiness, these countries are all under Parliamentary form of Government. While on the bottom 10 countries 8 out of 10 are Direct Presidential.
