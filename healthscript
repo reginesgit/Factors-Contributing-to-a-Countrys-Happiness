@@ -1,0 +1,8 @@
+Health Spend and Happiness
+To begin this project, I located data on how much each country spends on heathcare as well as population. 
+I then divided spend over population to determine spend per person. I converted this into a csv file. 
+I combined this information with the World Happiness Report Data Index csv file into 1 dataframe. 
+I then cleaned the merged data and renamed any columns to make the dataframe fields more clear. 
+I ran a regression analysis to determine correlation between health spend/person and happiness score. 
+I found a strong correlation between the two. It made me curious if only highly populated areas spent the most on health so I did an analysis just between population and happiness.
+What I found was there was no correlation between happiness and population, so my first finding, spend on health per person, told the real picture. 
