@@ -1,0 +1,12 @@
+My question was how the social support score was correlated with the happiness index.
+To begin n this project I combened the yearly happiness index csv files, cleaned and renamed the combined file.
+I ran a regression analysis to determine correlation between social support and happiness.
+I found a strong positive relationship between the two with a r-square 0.78 
+Since social support and charity are related I was curious how these two are connected to happiness. I did an analysis with social support and generosity vs happiness.
+These are some of the findings I have
+* Iceland was always on the top in terms of social support score, but the  happiness index was not the highest
+* Toga has the lowest level of social support, but the happiness index is not the lowest.
+* Myanmar is the top country in terms of generosity, but its happiness index is below 4.5
+In summary, lack of social support seems to affect the happiness index up to a certain level, but the correlation between these two are not linear.
+Also, generous countries were not automatically happy until social support was added in too. 
+We like to think this says people in general are good, and want to make others happy, even if they are not happy themselves.
