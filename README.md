@@ -66,6 +66,7 @@ With this project, there are six main Jupyter notebooks regarding the data explo
         - [happiness\_bottom10.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/happiness_bottom10.csv) - happiness data for the 10 countries with the lowest average happiness score
         - [happiness\_top10.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/happiness_top10.csv) - happiness data for the 10 countries with the highest average happiness score
         - [merged\_happiness\_data.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/merged_happiness_data.csv) - cleaned and merged version of the happiness data; includes all columns
+        - [country\_region.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/country_region.csv) - country and region data
         
         
 - [Healthcare( folder](https://github.com/reginesgit/project1/tree/main/Healthcare)):
