@@ -137,8 +137,4 @@ Weather API
 
 
 
-- [Healthcare( folder](https://github.com/reginesgit/project1/tree/main/Healthcare)):
-
-    - [HealthcareStarter.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/HealthcareStarter.ipynb) - notebook was used to bring in raw data from World Health Organization Global Expenditure Database, clean columns, separate health and population, and create in csvs.
-    - [Healthmergehappy.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/healthmergehappy.ipynb) - notebook was used to bring happiness, health, and population csv&#39;s into one
 
