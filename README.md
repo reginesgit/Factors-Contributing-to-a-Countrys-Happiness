@@ -66,6 +66,14 @@ With this project, there are six main Jupyter notebooks regarding the data explo
         - [happiness\_bottom10.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/happiness_bottom10.csv) - happiness data for the 10 countries with the lowest average happiness score
         - [happiness\_top10.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/happiness_top10.csv) - happiness data for the 10 countries with the highest average happiness score
         - [merged\_happiness\_data.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/merged_happiness_data.csv) - cleaned and merged version of the happiness data; includes all columns
+        
+        
+- [Healthcare( folder](https://github.com/reginesgit/project1/tree/main/Healthcare)):
+
+    - [HealthcareStarter.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/HealthcareStarter.ipynb) - notebook was    used to bring in raw data from World Health Organization Global Expenditure Database, clean columns, separate health and population, and create in csvs.
+    - [Healthmergehappy.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/healthmergehappy.ipynb) - notebook was used to bring happiness, health, and population csv&#39;s into one
+
+
 
 
 ## Tasks
@@ -125,4 +133,12 @@ World Bank Data Catalogue
 Weather API
 
 [https://openweathermap.org/ap](https://openweathermap.org/ap)
+
+
+
+
+- [Healthcare( folder](https://github.com/reginesgit/project1/tree/main/Healthcare)):
+
+    - [HealthcareStarter.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/HealthcareStarter.ipynb) - notebook was used to bring in raw data from World Health Organization Global Expenditure Database, clean columns, separate health and population, and create in csvs.
+    - [Healthmergehappy.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/healthmergehappy.ipynb) - notebook was used to bring happiness, health, and population csv&#39;s into one
 
