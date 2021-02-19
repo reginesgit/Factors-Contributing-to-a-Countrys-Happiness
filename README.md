@@ -72,14 +72,19 @@ With this project, there are six main Jupyter notebooks regarding the data explo
 
     - [HealthcareStarter.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/HealthcareStarter.ipynb) - notebook was    used to bring in raw data from World Health Organization Global Expenditure Database, clean columns, separate health and population, and create in csvs.
     - [Healthmergehappy.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/healthmergehappy.ipynb) - notebook was used to bring happiness, health, and population csv&#39;s into one
-    
-
-- [Weather( folder](https://github.com/reginesgit/project1/tree/main/Weather)):
 
 
-- [family( folder](https://github.com/reginesgit/project1/tree/main/family)):
+- [Weather (folder)] (https://github.com/reginesgit/project1/tree/main/Weather)
 
-
+	- [Weather.ipynb] (https://github.com/reginesgit/project1/blob/main/Weather/Weather.ipynb)
+	- [Weather_Report.ipynb] (https://github.com/reginesgit/project1/blob/main/Weather/Weather_Report.ipynb)
+	- [Countries_and_Capitals.csv] (https://github.com/reginesgit/project1/blob/main/Weather/Countries_and_Capitals.csv)
+	- [weather_data.csv] (https://github.com/reginesgit/project1/blob/main/Weather/weather_data.csv)
+	- [happiness_weather.csv] (https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather.csv)
+	- [happiness_weather_top10.csv] (https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather_top10.csv)
+	- [Images .png] Collection of images .png files demonstrating weather relationships.
+	
+	
 ## Tasks
 
 World Happiness Report (WHR) was base of the project. Using mean of the happiness score as the target Variable.
