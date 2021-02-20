@@ -86,6 +86,8 @@ With this project, there are six main Jupyter notebooks regarding the data explo
     - [Images .png] Collection of images .png files demonstrating weather relationships.
 
 
+- [Images (Folder)](https://github.com/reginesgit/project1/tree/main/Images): this contains some of the images of chats and graphs as result of the analisys . Some images will be in the notebooks.
+
 ## Tasks
 
 World Happiness Report (WHR) was base of the project. Using mean of the happiness score as the target Variable.
