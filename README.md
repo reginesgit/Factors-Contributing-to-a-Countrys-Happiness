@@ -77,13 +77,13 @@ With this project, there are six main Jupyter notebooks regarding the data explo
 
 - [Weather (folder)](https://github.com/reginesgit/project1/tree/main/Weather)
 
-    - [Weather.ipynb](https://github.com/reginesgit/project1/blob/main/Weather/Weather.ipynb)
-    - [Weather_Report.ipynb](https://github.com/reginesgit/project1/blob/main/Weather/Weather_Report.ipynb)
-    - [Countries_and_Capitals.csv](https://github.com/reginesgit/project1/blob/main/Weather/Countries_and_Capitals.csv)
-    - [weather_data.csv](https://github.com/reginesgit/project1/blob/main/Weather/weather_data.csv)
-    - [happiness_weather.csv](https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather.csv)
-    - [happiness_weather_top10.csv](https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather_top10.csv)
-    - [Images .png] Collection of images .png files demonstrating weather relationships.
+    - [Weather.ipynb](https://github.com/reginesgit/project1/blob/main/Weather/Weather.ipynb) - notebook used to prepare and merge data sources, perform API calls and export weather csv's.
+    - [Weather_Report.ipynb](https://github.com/reginesgit/project1/blob/main/Weather/Weather_Report.ipynb) - notebook used for visualizations of weather and happiness data, also generated image files relating to weather.
+    - [Countries_and_Capitals.csv](https://github.com/reginesgit/project1/blob/main/Weather/Countries_and_Capitals.csv) - Initial dataset used to perform weather requests.
+    - [weather_data.csv](https://github.com/reginesgit/project1/blob/main/Weather/weather_data.csv) - export from weather.ipynb: weather data combined with country data.
+    - [happiness_weather.csv](https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather.csv) - export from weather.ipynb: weather data combined with avg. happiness data.
+    - [happiness_weather_top10.csv](https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather_top10.csv) - exported from weather.ipynb: top 10 "happiest" countries and their weather.
+    
 
 - [SocialSupport( folder](https://github.com/reginesgit/project1/tree/main/SocialSupport)):
 
