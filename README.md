@@ -85,6 +85,21 @@ With this project, there are six main Jupyter notebooks regarding the data explo
     - [happiness_weather_top10.csv](https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather_top10.csv)
     - [Images .png] Collection of images .png files demonstrating weather relationships.
 
+- [SocialSupport( folder](https://github.com/reginesgit/project1/tree/main/SocialSupport)):
+
+    - [Resources (Folder](https://github.com/reginesgit/project1/tree/main/SocialSupport/Resources)):
+        - [2015.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/2015.csv) - Happiness rank and scores by country, 2015 (raw data)
+        - [2016.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/2016.csv) - Happiness rank and scores by country, 2016 (raw data)
+        - [2017.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/2017.csv) - Happiness rank and scores by country, 2017 (raw data)
+        - [2018.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/2018.csv) - Happiness rank and scores by country, 2018 (raw data)
+        - [2019.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/2019.csv) - Happiness rank and scores by country, 2019 (raw data)
+        - [avg\_FamilyHappiness.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/avg_FamilyHappiness.csv) - only average happiness and family data
+        - [avg\_happiness.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/avg_happiness.csv)
+        - [combined\_df.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/combined_df.csv)
+        - [combined\_family\_15\_19\_df.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/combined_family_15_19.csv)
+        - [merged\_happines\_data.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/merged_happiness_data.csv) - merged version of the five happiness csv
+
+
 
 - [Images (Folder)](https://github.com/reginesgit/project1/tree/main/Images): this contains some of the images of chats and graphs as result of the analisys . Some images will be in the notebooks.
 
