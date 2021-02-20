@@ -87,6 +87,7 @@ With this project, there are six main Jupyter notebooks regarding the data explo
 
 - [SocialSupport( folder](https://github.com/reginesgit/project1/tree/main/SocialSupport)):
 
+     - [Social\_Support\_Final](https://github.com/reginesgit/project1/blob/main/SocialSupport/Social_Support_Final.ipynb) - Cleaning and Final Analysis : jupyter notebook used to analyze social support data 
     - [Resources (Folder](https://github.com/reginesgit/project1/tree/main/SocialSupport/Resources)):
         - [2015.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/2015.csv) - Happiness rank and scores by country, 2015 (raw data)
         - [2016.csv](https://github.com/reginesgit/project1/blob/main/SocialSupport/Resources/2016.csv) - Happiness rank and scores by country, 2016 (raw data)
