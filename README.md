@@ -66,7 +66,27 @@ With this project, there are six main Jupyter notebooks regarding the data explo
         - [happiness\_bottom10.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/happiness_bottom10.csv) - happiness data for the 10 countries with the lowest average happiness score
         - [happiness\_top10.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/happiness_top10.csv) - happiness data for the 10 countries with the highest average happiness score
         - [merged\_happiness\_data.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/merged_happiness_data.csv) - cleaned and merged version of the happiness data; includes all columns
+        - [country\_region.csv](https://github.com/reginesgit/project1/blob/main/Happiness/Resources/country_region.csv) - country and region data
+        
+        
+- [Healthcare( folder](https://github.com/reginesgit/project1/tree/main/Healthcare)):
 
+    - [HealthcareStarter.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/HealthcareStarter.ipynb) - notebook was    used to bring in raw data from World Health Organization Global Expenditure Database, clean columns, separate health and population, and create in csvs.
+    - [Healthmergehappy.ipynb](https://github.com/reginesgit/project1/blob/main/Healthcare/healthmergehappy.ipynb) - notebook was used to bring happiness, health, and population csv&#39;s into one
+
+
+- [Weather (folder)](https://github.com/reginesgit/project1/tree/main/Weather)
+
+    - [Weather.ipynb](https://github.com/reginesgit/project1/blob/main/Weather/Weather.ipynb)
+    - [Weather_Report.ipynb](https://github.com/reginesgit/project1/blob/main/Weather/Weather_Report.ipynb)
+    - [Countries_and_Capitals.csv](https://github.com/reginesgit/project1/blob/main/Weather/Countries_and_Capitals.csv)
+    - [weather_data.csv](https://github.com/reginesgit/project1/blob/main/Weather/weather_data.csv)
+    - [happiness_weather.csv](https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather.csv)
+    - [happiness_weather_top10.csv](https://github.com/reginesgit/project1/blob/main/Weather/happiness_weather_top10.csv)
+    - [Images .png] Collection of images .png files demonstrating weather relationships.
+
+
+- [Images (Folder)](https://github.com/reginesgit/project1/tree/main/Images): this contains some of the images of chats and graphs as result of the analisys . Some images will be in the notebooks.
 
 ## Tasks
 
@@ -101,8 +121,6 @@ Understanding categorical correlations → Bar charts
 Calculating relationship with more than 2 variables → Scatter plots with color label
 
 
-## Findings
-
 
 ## Data Sources
 
@@ -125,4 +143,8 @@ World Bank Data Catalogue
 Weather API
 
 [https://openweathermap.org/ap](https://openweathermap.org/ap)
+
+
+
+
 
